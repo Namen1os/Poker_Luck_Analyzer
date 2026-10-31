@@ -35,4 +35,4 @@
 ---
 
 ## ✉️ Обратная связь и поддержка
-Если у вас есть предложение или замечание, создайте обращение в разделе [Issues](https://github.com/Namen1os/Poker_Luck_Analyzer/issues) **New issue**.
+Если у вас есть предложение или замечание, создайте обращение в разделе [Issues](https://github.com/Namen1os/Poker_Luck_Analyzer/issues) , нажав на **New issue**.
